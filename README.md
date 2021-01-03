@@ -22,8 +22,6 @@
 17. **[Free Programming Books](#free-programming-books)**
 18. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
 19. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
-20. **[Software Developer Success Stories](#software-developer-success-stories)**
-21. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
 
 ---
 
